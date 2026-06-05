@@ -1,1 +1,11 @@
-
+{
+  "name": "paradiselive",
+  "version": "1.0.0",
+  "main": "server/src/main.ts",
+  "scripts": {
+    "start": "node server/src/main.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.0.0"
+  }
+}
