@@ -1,6 +1,7 @@
 {
   "name": "paradiselive",
   "version": "1.0.0",
+  "main": "src/main.ts",
   "scripts": {
     "start": "ts-node src/main.ts"
   },
@@ -9,3 +10,4 @@
     "ts-node": "^10.9.2"
   }
 }
+
